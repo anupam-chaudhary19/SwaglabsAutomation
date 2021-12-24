@@ -1,0 +1,21 @@
+1640256287510	geckodriver	INFO	Listening on 127.0.0.1:60765
+1640256290543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anupam\\AppData\\Local\\Temp\\rust_mozprofileRsUnQC"
+1640256291709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anupam\\AppData\\Local\\Temp\\rust_mozprofileRsUnQC\\search.json.mozlz4", (void 0)))
+1640256295311	Marionette	INFO	Listening on port 60780
+1640256295552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1640256304459	Marionette	INFO	Stopped listening on port 60780
+1640258307972	geckodriver	INFO	Listening on 127.0.0.1:62521
+1640258311048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anupam\\AppData\\Local\\Temp\\rust_mozprofileXUMhD3"
+1640258311552	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anupam\\AppData\\Local\\Temp\\rust_mozprofileXUMhD3\\search.json.mozlz4", (void 0)))
+1640258314305	Marionette	INFO	Listening on port 62531
+1640258314332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1640258323233	Marionette	INFO	Stopped listening on port 62531
+1640258494146	geckodriver	INFO	Listening on 127.0.0.1:62755
+1640258497228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Anupam\\AppData\\Local\\Temp\\rust_mozprofileLcvMuO"
+1640258497672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Anupam\\AppData\\Local\\Temp\\rust_mozprofileLcvMuO\\search.json.mozlz4", (void 0)))
+1640258500467	Marionette	INFO	Listening on port 62766
+1640258500782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1640258511663	Marionette	INFO	Stopped listening on port 62766
